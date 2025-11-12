@@ -369,7 +369,7 @@
 										<img src="{{asset('/images/icons/sd-1.png')}}" alt="SDG-1" />
 									</span>
 									<div class="iconitem__text">
-										<h4>No Poverty</h4>
+										<h4>SDG 1</h4>
 										<p>End poverty in all its forms everywhere 
 											Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old...
 								        </p>
@@ -404,8 +404,8 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 2 </h4>
-										<p>SDG 2 End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+										<p>Zero Hunger — end hunger, achieve food security and improved nutrition, and promote sustainable agriculture.
+     
 										</p>
 									</div>
 								</div>
@@ -438,9 +438,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 3</h4>
-										<p>SDG 3 End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Good Health and Well-being — ensure healthy lives and promote well-being for all at all ages.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -478,9 +476,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 4</h4>
-										<p>SDG 4 End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Quality Education — ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -513,9 +509,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 5</h4>
-										<p>SDG 5 End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Gender Equality — achieve gender equality and empower all women and girls.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -548,9 +542,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 6</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Clean Water and Sanitation — ensure availability and sustainable management of water and sanitation for all.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -584,9 +576,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 7</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Affordable and Clean Energy — ensure access to affordable, reliable, sustainable and modern energy for all.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -619,9 +609,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 8</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Decent Work and Economic Growth — promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -954,9 +942,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 15</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Life on Land — protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, halt and reverse land degradation and biodiversity loss.</p>
 									</div>
 
 								</div>
@@ -991,9 +977,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 16</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Peace, Justice and Strong Institutions — promote peaceful and inclusive societies, provide access to justice for all and build effective, accountable institutions at all levels.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
@@ -1026,9 +1010,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4> SDG 17</h4>
-										<p>End poverty in all its forms everywhere
-										Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-										</p>
+										<p>Partnerships for the Goals — strengthen the means of implementation and revitalize the global partnership for sustainable development.</p>
 									</div>
 								</div>
 								<div class="hoverBock" style="display: none;">
