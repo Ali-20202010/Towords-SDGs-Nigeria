@@ -1,0 +1,272 @@
+@media screen and (max-width: 1367px) {
+	.sdgbanner {
+		padding-bottom: 100px !important;
+		padding-top: 100px !important;
+	}
+
+	ul.list-style-1 li a {
+		font-size: 16px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.hoverBock {
+		display: block !important;
+	}
+
+	.homeSlider__block {
+		min-height: auto !important;
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+
+	.sdgbanner{
+		padding: 50px 0 !important;
+	}
+	
+
+	.tabInnernav__block {
+		flex-wrap: wrap;
+	}
+ul.rightBtns li a{
+	font-size: 16px;
+}
+	
+
+	a.sdgHeader__logo img {
+		width: 100%;
+		max-width: 150px;
+	}
+
+	a.sdgHeader__logo {
+		width: 50%;
+	}
+
+	a.mailTo {
+		flex-wrap: wrap;
+		word-break: break-all;
+		text-align: right;
+		width: 50%;
+		font-size: 0;
+	}
+
+	a.mailTo img {
+		margin-left: auto;
+	}
+
+	a.mailTo span {
+		font-size: 14px;
+	}
+
+	.goals {
+		padding-right: 0 !important;
+		margin-top: 0;
+		margin-bottom: 40px;
+	}
+
+	
+
+
+	.sdgbanner h1 {
+		font-size: 32px;
+		line-height: 32px;
+	}
+
+	.gbIndicator__Wrapper {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.gbIndicator__left,
+	.gbIndicator__right {
+		width: 100%;
+	}
+
+	.homeSlider__block {
+		min-height: auto;
+	}
+
+	.goals svg {
+		max-width: 450px;
+	}
+
+	.iconitem__text h4 {
+		font-size: 24px;
+	}
+
+	.iconitem__text p {
+		font-size: 16px;
+	}
+
+	.sdg__heading br {
+		display: none;
+	}
+
+	.sdg__heading {
+		font-size: 24px;
+		line-height: 29px;
+	}
+
+	.indicator__block {
+		position: relative;
+		padding-right: 0;
+		padding-top: 80px;
+	}
+
+	a.backGoal {
+		top: 0;
+	}
+
+	ul.indicator__nav li a{
+		padding: 16px 10px;
+		    font-size: 16px;
+	}
+	ul.tabInner__nav li a{padding: 0 10px; font-size: 16px;}
+	#exampleModal .modal-body {
+    text-align: center;
+}
+
+}
+
+@media screen and (max-width: 600px){
+ul.indicator__nav {
+		flex-wrap: wrap;
+	}
+	ul.rightBtns li a{
+		font-size: 16px;
+	}
+	.tabInnernav__block ul {
+		flex-wrap: wrap;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 576px) {
+
+	a.backGoal{
+width: 100%;
+text-align: center;
+	}
+.homeSlider .slick-prev{
+	left: 0;
+	right: unset;
+}
+	/*.homeSlider .slick-prev,
+	.homeSlider .slick-next {
+		top: 0;
+	}*/
+
+	.iconitem {
+		flex-direction: column;
+		align-items: flex-start;
+		padding-right: 0;
+	}
+	span.iconitem__icon{
+		margin: auto;
+	}
+	.hoverBock {
+    text-align: center;
+}
+
+	.iconitem__text {
+		padding-left: 0;
+		margin-top: 15px;
+		text-align: center;
+		    width: 100%;
+	}
+
+	.sdgbanner h1 {
+		font-size: 24px;
+		line-height: 30px;
+		text-align: center;
+		margin: 0;
+	}
+
+	a.mailTo span {
+		font-size: 12px;
+	}
+
+	a.mailTo img {
+		display: none;
+	}
+
+	.bannerGoal__caption {
+		padding-left: 0;
+		margin-top: 15px;
+	}
+
+	.bannerGoal {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+
+	.goalBtn {
+		margin-top: 20px;
+	}
+
+	.goalBtn a {
+		padding: 15px 12px;
+		font-size: 14px;
+	}
+
+	.bannerContent h1.sdheading {
+		font-size: 18px;
+		line-height: 23px;
+	}
+
+	.goalBtn a:last-child {
+		margin-right: 0;
+	}
+
+	.indicator__block {
+		flex-direction: column;
+	}
+
+	.indicator__text {
+		padding-left: 0;
+		margin-top: 15px;
+	}
+
+	ul.tabInner__nav li.active:after {
+		display: none;
+	}
+
+	ul.tabInner__nav li {
+		width: 100%;
+	}
+
+	ul.tabInner__nav li a {
+		display: block;
+		padding: 10px;
+		border: 1px solid #ccc;
+		text-align: center;
+		margin-bottom: 8px;
+	}
+
+	ul.rightBtns {
+		width: 100%;
+		margin-top: 8px !important;
+		justify-content: space-between;
+	}
+
+	ul.rightBtns li {
+		width: 48%;
+	}
+
+	ul.rightBtns li a {
+		margin: 0;
+		padding: 10px;
+		border: 1px solid #ccc;
+		text-align: center;
+		width: 100%;
+		display: block;
+	}
+
+	ul.indicator__nav li {
+		border-bottom: 1px solid #ddd;
+	}
+
+}
