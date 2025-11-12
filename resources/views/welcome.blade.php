@@ -370,9 +370,7 @@
 									</span>
 									<div class="iconitem__text">
 										<h4>SDG 1</h4>
-										<p>End poverty in all its forms everywhere 
-											Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old...
-								        </p>
+										<p>No Poverty — end poverty in all its forms everywhere, ensure access to basic services, social protection, and resilience to shocks.</p>
 									</div>
 								</div>
 
